@@ -1,1 +1,1 @@
-yarn: web serve
+web: yarn serve
